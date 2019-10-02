@@ -1,2 +1,2 @@
 # Settings-Resetter
-A program that resets the settings of an app made with Visual Studio.
+A program that resets the settings of a software made with Visual Studio.
